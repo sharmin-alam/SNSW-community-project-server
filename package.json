@@ -1,0 +1,18 @@
+{
+  "name": "group-assessment-server",
+  "version": "1.0.0",
+  "description": "Group project work SNSW bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timout 10000"
+  },
+  "author": "Annette, George, Sharmin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-persist": "^3.1.0",
+    "uuid": "^8.2.0"
+  }
+}
